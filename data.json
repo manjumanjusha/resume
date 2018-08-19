@@ -1,0 +1,45 @@
+{
+	"basicdetails":{
+		"image":"Penguins.jpg",
+		"name":"G.Manjusha",
+		"email":"manjugandham33@gmail.com",
+		"phone":"9885155635",
+		"address":"5-7/15,narasaraopet,guntur(dt)"
+	},
+"education":[
+     {
+     	"course":"b.tech(c.s.e)",
+     	"college":"vignan nirula institute of technology",
+     	"percentage":"8.5"
+     },
+     {
+     	"course":"intermediate",
+     	"college":"bhashyam junior college",
+     	"percentage":"8.9"
+
+     },
+     {
+     	"course":"ssc",
+     	"college":"narayana e-techno school",
+     	"percentage":"9.7"
+     }],
+"skills":[
+     {
+          "name":"Operating systems",
+          "value":"Linux,Windows,MAC"
+     },
+     {
+          "name":"Programming Langauges",
+          "value":"C,C++,Java,Python"
+     }],
+"career":{
+     "ca":"I am seeking a competitive and challenging environment where I can serve your organisation and establish a career for myself." 
+},
+"achievements":[
+     "I got first prize in Idea hunt competition in my college.",
+     "I was acknowledged by my college as best coder of the batch."
+],
+"discription":{
+     "de":"Here we learning html through Progressive Web Apps"
+}
+}
